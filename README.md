@@ -4,11 +4,25 @@
 
 # TextScope is a modern Android application built with Jetpack Compose and ML Kit, designed to recognize text from images using on-device machine learning. Whether you capture a photo or choose one from your gallery, TextScope instantly scans and displays the extracted text in a sleek and responsive UI.
 
-* Dish name
-* Average cook time
-* List of recipes
+# Features
+* Real-time Text Recognition using Google's ML Kit.
+* Gallery Picker for selecting images.
+* On-device processing — fast, secure, and works offline.
+* Modern UI with Jetpack Compose and Material 3
+* Minimal Dependencies for easy integration and high performance.
 
-* ## Demo Video
+* ## How It Works
+* Open the app and lands on the Home Screen.
+* Tap on the “Scan Text” button navigates to the Text Scanner screen.
+* Select an image from their gallery.
+* The app processes the image using ML Kit TextRecognition and displays the extracted text.
+
+* ##  Built With
+* Jetpack Compose: Declarative UI toolkit for modern Android development
+* ML Kit: Google's on-device machine learning SDK
+* StateFlow: For reactive data handling in the ViewModel
+* Coil: Image loading for Jetpack Compose
+
 
 
 <a href="https://youtu.be/bdnvQeJmWLA">
