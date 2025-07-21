@@ -1,8 +1,8 @@
-# 📷 TextScope — On-Device Text Recognition with Jetpack Compose & ML Kit
+# ON Text Recognision Jetpack Compose— On-Device Text Recognition with Jetpack Compose & ML Kit
 
 ## ANDROID APP TO EXTRACT TEXT FROM IMAGES
 
-# TextScope is a modern Android application built with Jetpack Compose and ML Kit, designed to recognize text from images using on-device machine learning. Whether you capture a photo or choose one from your gallery, TextScope instantly scans and displays the extracted text in a sleek and responsive UI.
+# ON Text Recognision Jetpack Compose is a modern Android application built with Jetpack Compose and ML Kit, designed to recognize text from images using on-device machine learning. Whether you capture a photo or choose one from your gallery, TextScope instantly scans and displays the extracted text in a sleek and responsive UI.
 
 # Features
 * Real-time Text Recognition using Google's ML Kit.
