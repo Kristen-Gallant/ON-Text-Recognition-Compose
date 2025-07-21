@@ -31,9 +31,7 @@
 
 
 
-<img src="https://github.com/Kristen-Gallant/ON-Text-Recognition-Compose/blob/master/textrecogscreeenshot.png" alt="Alt Text" width="300" /> <img src="https://raw.githubusercontent.com/Kristen-Gallant/ON-Text-Recognition-Compose/f4a8e169c3812babbd313c59b3f4f0c907d26e97/texrecog2.png" alt="Alt Text" width="300" />
-
-<img src="https://github.com/Kristen-Gallant/ON-Text-Recognition-Compose/blob/master/textrecog3.png?raw=true" alt="Alt Text" width="300" />
+<img src="https://github.com/Kristen-Gallant/ON-Text-Recognition-Compose/blob/master/textrecogscreeenshot.png" alt="Alt Text" width="300" /> <img src="https://raw.githubusercontent.com/Kristen-Gallant/ON-Text-Recognition-Compose/f4a8e169c3812babbd313c59b3f4f0c907d26e97/texrecog2.png" alt="Alt Text" width="300" /> <img src="https://github.com/Kristen-Gallant/ON-Text-Recognition-Compose/blob/master/textrecog3.png?raw=true" alt="Alt Text" width="300" />
 
 
 
