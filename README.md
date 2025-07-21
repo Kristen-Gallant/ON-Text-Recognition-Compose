@@ -30,7 +30,7 @@
 </a>
 
 <img src="
-https://github.com/Kristen-Gallant/ON-Text-Recognition-Compose/blob/master/texrecog2.pngg" alt="Alt Text" width="300" />
+https://github.com/Kristen-Gallant/ON-Text-Recognition-Compose/blob/master/texrecog2.png" alt="Alt Text" width="300" />
 
 
 <img src="https://github.com/Kristen-Gallant/O_N_Recipe_Picker/blob/5c09df0c9e504365d03725726d9c73f7660023dc/O_N_RECIPE_PICKER.png" alt="Alt Text" width="300" />
